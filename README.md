@@ -1,5 +1,5 @@
 🌌 AstroStepper Pro
-Observatory-Grade DDS Stepper Engine for ESP32
+Observatory-Grade 32-bit DDS Stepper Engine for ESP32
 
 Release: v1.0
 
