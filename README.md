@@ -1,3 +1,6 @@
+Updated to 64-bit Fixed-Point DDS Core here:
+https://github.com/riazulislam20/AstroStepper-Pro/releases/tag/Stepper
+
 🌌 AstroStepper Pro
 Observatory-Grade 32-bit DDS Stepper Engine for ESP32
 
